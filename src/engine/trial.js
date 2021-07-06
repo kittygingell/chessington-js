@@ -1,3 +1,6 @@
-const fruits = ["Banana", "Orange", "Apple", "Mango"];
-console.log(fruits.indexOf("Apple"))
+import Square from "../square";
 
+export function check(Square){
+
+
+}
